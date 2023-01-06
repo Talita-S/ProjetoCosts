@@ -21,6 +21,17 @@
       "cost": 0,
       "services": [],
       "id": 2
+    },
+    {
+      "name": "Novo Projeto",
+      "budget": "40000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
     }
   ],
   "categories": [
