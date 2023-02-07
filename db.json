@@ -7,21 +7,8 @@
       },
       "name": "Projeto teste",
       "budget": "7000",
-      "cost": 200,
-      "services": [
-        {
-          "name": "Serviço 1",
-          "cost": "100",
-          "description": "Fazer isso",
-          "id": "7fa26590-1611-4613-8250-1dd9e7f0e553"
-        },
-        {
-          "name": "Serviço 2",
-          "cost": "100",
-          "description": "Fazer isso",
-          "id": "c821a0f9-0462-478e-bbc1-441410157735"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 1
     },
     {
@@ -31,19 +18,13 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 1300,
+      "cost": 500,
       "services": [
         {
           "name": "Contratar Scrum Master",
           "cost": "500",
           "description": "Impulsionar as redes para divulgar as vagas disponíveis",
           "id": "0f27de07-55ec-46c6-8f95-656f55c38d52"
-        },
-        {
-          "name": "Relatório de horas",
-          "cost": "800",
-          "description": "Criar relatório para gerenciar as horas alocadas no projeto",
-          "id": "5cde8074-698d-4b73-acc0-a46af227ce86"
         }
       ],
       "id": 2
