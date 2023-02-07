@@ -2,13 +2,26 @@
   "projects": [
     {
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
       "name": "Projeto teste",
-      "budget": "13000",
-      "cost": 0,
-      "services": [],
+      "budget": "7000",
+      "cost": 200,
+      "services": [
+        {
+          "name": "Serviço 1",
+          "cost": "100",
+          "description": "Fazer isso",
+          "id": "7fa26590-1611-4613-8250-1dd9e7f0e553"
+        },
+        {
+          "name": "Serviço 2",
+          "cost": "100",
+          "description": "Fazer isso",
+          "id": "c821a0f9-0462-478e-bbc1-441410157735"
+        }
+      ],
       "id": 1
     }
   ],
